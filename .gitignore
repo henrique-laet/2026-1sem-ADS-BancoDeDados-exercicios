@@ -1,0 +1,32 @@
+# =====================
+# OS generated files
+# =====================
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+._*
+
+# =====================
+# Microsoft Office temp / lock files
+# =====================
+~$*
+~*.tmp
+*.~*
+
+# =====================
+# Editor / IDE files
+# =====================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+*.orig
+
+# =====================
+# Logs
+# =====================
+*.log
